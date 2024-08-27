@@ -76,3 +76,12 @@ body {
 .para{
     margin-left: 100px;
 }
+
+@media screen {
+    .img img {
+        
+        width: 200px;
+        height: 250px;
+    }
+    
+}
